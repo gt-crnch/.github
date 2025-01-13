@@ -8,5 +8,5 @@ As the demand for high-performance computing grows, our ability to speed up comp
 * [CRNCH Summit 2023](https://github.com/gt-crnch/crnch-summit-2023) - a two-day, in-person summit meeting with attendees from around the United States. 
 
 ### How to Get Engaged with CRNCH
-* Join us at our annual summit (typically in January)! See [this page](https://crnch.gatech.edu/content/crnch-summit) for more details on the latest summit.
+* Join us at our annual summit (typically in January)! See [this page](https://crnch.gatech.edu/crnch-summit-2025/) for more details on the latest summit.
 * Read about our testbed, the CRNCH Rogues Gallery [here](https://crnch-rg.cc.gatech.edu/).
